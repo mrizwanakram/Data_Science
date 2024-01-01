@@ -1,5 +1,3 @@
-Certainly! Below is a basic template for a README file that you can include with your GitHub repository. You can customize it further based on your preferences.
-
 ```markdown
 # PaddleOCR Number Plate Detection
 
@@ -31,7 +29,7 @@ cd paddleocr-numberplate
 2. Create input and output folders:
 
 ```bash
-mkdir cctv_images
+mkdir Number_plate_images_images
 mkdir output_results
 ```
 
@@ -60,4 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to contribute or report issues!
 ```
 
-Replace `yourusername` in the GitHub clone URL with your actual GitHub username. You can also include details such as acknowledgments, future enhancements, or additional instructions based on your project's specific needs.
